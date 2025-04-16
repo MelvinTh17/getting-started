@@ -1,5 +1,4 @@
 Make a fork of this repo
-
 Add secrets in repo settings > secrets
 Create container registry in Azure.
 Create a storage account in Azure
