@@ -10,7 +10,7 @@ Create a fileshare in your storage account
 * REGISTRY_PASSWORD (Either key in Access keys)
 * REGISTRY_USERNAME (Account name as shown in Access keys)
 * REPOSITORY_NAME (Name of this repo, if forked: "getting-started")
-* RESOURCE_GROUP (Name of your Azure resource group)
+* RESOURCE_GROUP (Name of your Azure resource group
 * STORAGE_ACCOUNT_KEY (Either key in Access keys)
 * STORAGE_ACCOUNT_NAME (Account name as shown in Access keys)
 * SHARE_NAME (Your share's name)
